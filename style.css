@@ -1,0 +1,26 @@
+body form{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    height: 40px;
+    width: 180px;
+    margin: 10px;
+    font-size: 24px;
+}
+button {
+    height: 30px;
+    cursor: pointer;
+}
+h1 {
+    height: 60px;
+}
+.hide {
+    visibility: hidden;
+}
+p {
+    margin-top: 50px;
+}
